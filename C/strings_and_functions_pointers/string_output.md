@@ -1,7 +1,7 @@
 String output is handled with the `fputs()`, `puts()`, and `printf()` functions.
 The `fputs()` requires the name of the string and a pointer to where you want to print the string. To print to the screen, use `stdout` which refers to the standard output.
 
-####### For Example:
+###### For Example:
 
 ```c
 #include <stdio.h>
