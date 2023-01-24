@@ -1,10 +1,10 @@
 # Why C programming is awesome
 
-C programming is considered awesome for several reasons. It is a low-level language, which means it gives programmers more control over the underlying hardware. It is also a procedural language, which means it follows a step-by-step approach to solving problems. Additionally, C is widely used in systems programming, embedded systems, and other applications where performance is critical. It also has a large number of libraries available, which makes it easy to perform complex tasks.
+*C* *programming* is considered awesome for several reasons. It is a low-level language, which means it gives programmers more control over the underlying hardware. It is also a procedural language, which means it follows a step-by-step approach to solving problems. Additionally, C is widely used in systems programming, embedded systems, and other applications where performance is critical. It also has a large number of libraries available, which makes it easy to perform complex tasks.
 
 # Who invented C
 
-C was invented by Dennis Ritchie at Bell Labs in the early 1970s. He and Brian Kernighan wrote the first C book,** "The C Programming Language"** and it is widely considered the **"bible"** of the language.
+C was invented by Dennis Ritchie at Bell Labs in the early 1970s. He and Brian Kernighan wrote the first C book,**"The C Programming Language"** and it is widely considered the **"bible"** of the language.
 
 # Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
 
@@ -45,7 +45,7 @@ When compiling with GCC, the default program name is `a.out`
 
 # What is the official C coding style and how to check your code with betty-style
 
-The official *C coding style is known as the "K&R style" which refers to the first book on C Programming Language written by Brian Kernighan and Dennis Ritchie. You can use the `"betty-style"` tool to check your code against the K&R style guidelines.
+The official **C** coding style is known as the "K&R style" which refers to the first book on C Programming Language written by Brian Kernighan and Dennis Ritchie. You can use the `"betty-style"` tool to check your code against the K&R style guidelines.
 
 # How to find the right header to include in your source code when using a standard library function
 
